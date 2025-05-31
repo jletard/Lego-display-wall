@@ -1,35 +1,41 @@
 # LEGO Display Wall
 
-This project documents the design and construction of a built-in-style LEGO Star Wars display wall using MDF and 2×4 framing. It includes custom shelf depths, vertical bay divisions, and lighting integration.
+This project documents the design and construction of a two-part built-in-style LEGO Star Wars display wall using MDF and 2×4 framing, with custom lighting, shelf spacing, and UCS ship fitment in mind.
 
-## Overview
+## Final Dimensions
 
-- **Total Width:** 132"
-- **Total Height:** 108"
-- **Lower Box:** 60" tall × 20" deep
-- **Upper Box:** 48" tall × 12" deep (no bottom panel)
-- **Falcon Platform Height:** ~36" (standard counter height)
-- **Vertical Bay Widths:** 
-  - Lower box: (3') (5') (3') to accommodate UCS ships like the Star Destroyer
-  - Upper box: evenly divided or adjusted for symmetry
+- **Total Width:** 132" (11 feet)
+- **Total Height:** 108" (9 feet, including base)
+- **Lower Box (Deep Base):**
+  - Height: 36"
+  - Depth: 20"
+  - Width: 132"
+  - Center bay: 60" wide for UCS Star Destroyer and Republic Cruiser
+- **Upper Box (Shallower Top):**
+  - Height: 72"
+  - Depth: 12"
+  - Width: 132"
+  - Split into 4 vertical bays for display variety
+- **Base Platform:**
+  - Constructed from 2×4s
+  - Footprint: 132" × 20"
+  - Baseboard trim planned for a built-in look
 
-## Features
+## Construction Notes
 
-- 2×4 base platform for stability
-- Hidden cleats or rear trim for shelf strength
-- Counter-style topper on lower box
-- LED lighting routed through trim
-- Modular design for pre-assembly and easier transport
+- Shelves will be fixed, not adjustable, for structural strength
+- Lower box acts like a deep kitchen counter for Falcon display
+- Front trim and hidden rear cleat/back support will prevent sagging
+- Lighting will be routed into upper trim for downward illumination
+- Units built in two stackable parts for easier transport and assembly
 
-## Planning Tools
+## Repository Structure
 
-This repository will include:
-
-- Fusion 360 files (`/fusion`)
-- Render exports (`/renders`)
-- Cut plans and elevations (`/exports`)
-- Markdown build plans (`/docs`)
+- `fusion/` – Fusion 360 design files
+- `exports/` – Cut lists, blueprints, DXF exports
+- `renders/` – Concept images and mockups
+- `docs/` – Build plans, logs, and documentation
 
 ## License
 
-MIT — feel free to remix and build your own wall of awesome.
+MIT — Build your own space for LEGO greatness.
