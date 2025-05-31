@@ -1,0 +1,39 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node/npm-related (if any automation later)
+node_modules/
+dist/
+.env
+.env.local
+
+# Fusion 360 files
+*.autosave
+*.f3bak
+*.backup
+
+# Temporary or cache files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Blender/3D tool temp files
+*.blend1
+*.blend2
+*.blend@
+
+# VS Code settings (if used)
+.vscode/
+
+# System or IDE metadata
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
